@@ -25,7 +25,7 @@ Naval Postgraduate School
 ### Near-Live AIS Tracking
 [Git Repo](https://github.com/mdsmith44/py_qrcode_gen)
 
-Designed and developed a dynamic streamlit dashboard to enable NPS community to build custom QR Codes.
+Designed and developed a visualization to track ships with near-live data via AIS locations.
 
 Here we show two common methods for inserting images.
 
