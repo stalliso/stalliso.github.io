@@ -23,7 +23,7 @@ Naval Postgraduate School
 ## Projects
 
 ### Near-Live AIS Tracking
-[Git Repo](https://github.com/mdsmith44/py_qrcode_gen)
+[Git Repo](https://github.com/stalliso/OA3802_FinalProject)
 
 Designed and developed a visualization to track ships with near-live data via AIS locations.
 
@@ -31,7 +31,7 @@ Here we show two common methods for inserting images.
 
 Method 1: Use HTML img tag.
 
-<img src='images/streamlit_QR_screenshot.jpg' alt='dashboard' height=200/>
+<img src='images/Web.jepg' alt='map' height=200/>
 
 Method 2: Use Markdown syntax
 
