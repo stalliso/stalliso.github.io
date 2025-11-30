@@ -27,6 +27,6 @@ Naval Postgraduate School
 
 Designed and developed a visualization to track ships with near-live data via AIS locations.
 
-<img src='images/Web.jepg' alt='map' height=200/>
+<img src='images/Map.jpg' alt='map' height=200/>
 
 
